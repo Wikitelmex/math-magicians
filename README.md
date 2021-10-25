@@ -39,7 +39,7 @@ Before we start, make sure you fit the prerequisites, the source code is inside 
 - `npm tests`
 
 ### Deployment
-- `npm build` and update github pages
+- `npm deploy`
 
 ## Authors
 👤 **Alex Castillo**
