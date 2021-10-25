@@ -26,7 +26,7 @@ Before we start, make sure you fit the prerequisites, the source code is inside 
 - React based on components
 
 ### Setup
-- git clone https://github.com/Wikitelmex/
+- git clone https://github.com/Wikitelmex/math-magicians
   
 ### Install
 - `npm install`
