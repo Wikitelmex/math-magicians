@@ -3,7 +3,7 @@
 # Math Magicians
 > This App uses react, to creat an SPA related to math magicians, that includes math Quotes an a simple calculator.
 
-![image](image.png)
+![image](https://user-images.githubusercontent.com/59240486/138748203-9eaa8cd8-fd19-4da7-a780-452046df706f.png)
 
 
 ## Built With
