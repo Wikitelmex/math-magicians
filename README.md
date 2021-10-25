@@ -14,7 +14,7 @@
 - React
 
 ## Live Demo
-[Live Demo Link](https://wikitelmex.github.io/)
+[Live Demo Link](https://wikitelmex.github.io/math-magicians/)
 
 
 ## Getting Started
