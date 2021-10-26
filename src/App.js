@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Calculator from './components/Calculator/Calculator.lazy';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
           Math Magicians on building...
         </h2>
         <p>By Alex</p>
+        <Calculator />
       </header>
     </div>
   );

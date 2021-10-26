@@ -1,0 +1,13 @@
+.calculator {
+    width: 300px;
+}
+
+.screen{
+    border-radius: 0;
+    text-align:right;
+}
+
+.button-border {
+    border-color: whitesmoke;
+    height: 61px;
+}
