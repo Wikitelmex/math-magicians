@@ -1,6 +1,8 @@
+import React, { lazy, Suspense } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Calculator from './components/Calculator/Calculator.lazy';
+
+const LazyCalculator = lazy(() => import('./components/Calculator/Calculator'));
 
 function App() {
   return (
@@ -11,7 +13,10 @@ function App() {
           Math Magicians on building...
         </h2>
         <p>By Alex</p>
-        <Calculator />
+        <Suspense fallback="Loading calculator...">
+          <LazyCalculator />
+        </Suspense>
+        <br />
       </header>
     </div>
   );
