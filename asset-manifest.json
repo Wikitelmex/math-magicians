@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/math-magicians/static/css/main.f172961e.chunk.css",
-    "main.js": "/math-magicians/static/js/main.6facf336.chunk.js",
-    "main.js.map": "/math-magicians/static/js/main.6facf336.chunk.js.map",
-    "runtime-main.js": "/math-magicians/static/js/runtime-main.447e7797.js",
-    "runtime-main.js.map": "/math-magicians/static/js/runtime-main.447e7797.js.map",
+    "main.js": "/math-magicians/static/js/main.199bfc89.chunk.js",
+    "main.js.map": "/math-magicians/static/js/main.199bfc89.chunk.js.map",
+    "runtime-main.js": "/math-magicians/static/js/runtime-main.4a4e547d.js",
+    "runtime-main.js.map": "/math-magicians/static/js/runtime-main.4a4e547d.js.map",
     "static/js/2.d3b8278f.chunk.js": "/math-magicians/static/js/2.d3b8278f.chunk.js",
     "static/js/2.d3b8278f.chunk.js.map": "/math-magicians/static/js/2.d3b8278f.chunk.js.map",
-    "static/css/3.73da15c7.chunk.css": "/math-magicians/static/css/3.73da15c7.chunk.css",
-    "static/js/3.c3eaecea.chunk.js": "/math-magicians/static/js/3.c3eaecea.chunk.js",
-    "static/js/3.c3eaecea.chunk.js.map": "/math-magicians/static/js/3.c3eaecea.chunk.js.map",
+    "static/css/3.54627b8f.chunk.css": "/math-magicians/static/css/3.54627b8f.chunk.css",
+    "static/js/3.e6ef105a.chunk.js": "/math-magicians/static/js/3.e6ef105a.chunk.js",
+    "static/js/3.e6ef105a.chunk.js.map": "/math-magicians/static/js/3.e6ef105a.chunk.js.map",
     "static/js/4.ed1240c4.chunk.js": "/math-magicians/static/js/4.ed1240c4.chunk.js",
     "static/js/4.ed1240c4.chunk.js.map": "/math-magicians/static/js/4.ed1240c4.chunk.js.map",
     "index.html": "/math-magicians/index.html",
-    "static/css/3.73da15c7.chunk.css.map": "/math-magicians/static/css/3.73da15c7.chunk.css.map",
+    "static/css/3.54627b8f.chunk.css.map": "/math-magicians/static/css/3.54627b8f.chunk.css.map",
     "static/css/main.f172961e.chunk.css.map": "/math-magicians/static/css/main.f172961e.chunk.css.map",
     "static/js/2.d3b8278f.chunk.js.LICENSE.txt": "/math-magicians/static/js/2.d3b8278f.chunk.js.LICENSE.txt",
     "static/media/logo.5538ee34.svg": "/math-magicians/static/media/logo.5538ee34.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.447e7797.js",
+    "static/js/runtime-main.4a4e547d.js",
     "static/js/2.d3b8278f.chunk.js",
     "static/css/main.f172961e.chunk.css",
-    "static/js/main.6facf336.chunk.js"
+    "static/js/main.199bfc89.chunk.js"
   ]
 }
