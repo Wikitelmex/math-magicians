@@ -11,11 +11,9 @@ import CalculatorPage from '../pages/CalculatorPage';
 import HomePage from '../pages/HomePage';
 import QuotePage from '../pages/QuotePage';
 
-import styles from './NavMenu.module.css';
-
 const NavMenu = () => (
   <Router>
-    <div className={styles.NavMenu} data-testid="NavMenu">
+    <div data-testid="NavMenu">
       <nav className="navbar navbar-expand-lg navbar-light bg-warning fixed-top">
         <div className="container-fluid">
           <Link className="navbar-brand h1" to="/">Math Magicians</Link>

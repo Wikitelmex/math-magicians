@@ -1,5 +1,5 @@
 import React from 'react';
-import NavMenu from './components/NavMenu/NavMenu';
+import NavMenu from './components/NavMenu/NavMenu.lazy';
 
 import './App.css';
 
