@@ -1,24 +1,15 @@
-import React, { lazy, Suspense } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import NavMenu from './components/NavMenu/NavMenu';
 
-const LazyCalculator = lazy(() => import('./components/Calculator/Calculator'));
+import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h2>
-          Math Magicians on building...
-        </h2>
-        <p>By Alex</p>
-        <Suspense fallback="Loading calculator...">
-          <LazyCalculator />
-        </Suspense>
-        <br />
-      </header>
+
+    <div className="m-3">
+      <NavMenu />
     </div>
+
   );
 }
 
