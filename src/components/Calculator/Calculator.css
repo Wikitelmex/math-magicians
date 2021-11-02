@@ -1,5 +1,5 @@
 .calculator {
-  width: 300px;
+  width: 450px;
 }
 
 .screen {
@@ -9,5 +9,5 @@
 
 .button-border {
   border-color: whitesmoke;
-  height: 61px;
+  height: 81px;
 }

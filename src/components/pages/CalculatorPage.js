@@ -4,7 +4,7 @@ const LazyCalculator = lazy(() => import('../Calculator/Calculator'));
 
 const CalculatorPage = () => (
   <div className="d-flex justify-content-between flex-wrap">
-    <h2>Let&apos;s do some math!</h2>
+    <h1>Let&apos;s do some math!</h1>
     <Suspense fallback="Loading calculator...">
       <LazyCalculator />
     </Suspense>
