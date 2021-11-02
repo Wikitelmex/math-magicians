@@ -2,7 +2,7 @@ import React from 'react';
 
 const HomePage = () => (
   <div>
-    <h1>Welcome to out page!</h1>
+    <h1>Welcome to our page!</h1>
     <p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit.
       Illo commodi alias delectus soluta cupiditate
