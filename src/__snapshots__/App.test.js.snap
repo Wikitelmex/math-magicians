@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`APP(main component) it should match snapshot 1`] = `
+<div
+  className="m-3"
+>
+  <div
+    data-testid="App"
+  >
+    <nav
+      className="navbar navbar-expand-lg navbar-light bg-warning fixed-top"
+    >
+      <div
+        className="container-fluid"
+      >
+        <a
+          className="navbar-brand h1"
+          href="/"
+          onClick={[Function]}
+        >
+          Math Magicians
+        </a>
+        <button
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          data-bs-target="#navbarNavAltMarkup"
+          data-bs-toggle="collapse"
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse me-auto"
+          id="navbarNavAltMarkup"
+        >
+          <div
+            className="navbar-nav ms-auto text-light"
+          >
+            <a
+              className="nav-link"
+              href="/"
+              onClick={[Function]}
+            >
+              Home
+            </a>
+            <a
+              className="nav-link"
+              href="/Calculator"
+              onClick={[Function]}
+            >
+              Calculator
+            </a>
+            <a
+              className="nav-link"
+              href="/Quote"
+              onClick={[Function]}
+            >
+              Quote
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+  <br />
+  <br />
+  <br />
+  <div>
+    <h1>
+      Welcome to our page!
+    </h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo commodi alias delectus soluta cupiditate tenetur doloremque animi enim itaque neque, eaque sapiente? Mollitia, quos temporibus facere veritatis ratione provident libero?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo commodi alias delectus soluta cupiditate tenetur doloremque animi enim itaque neque, eaque sapiente? Mollitia, quos temporibus facere veritatis ratione provident libero?
+    </p>
+  </div>
+</div>
+`;
