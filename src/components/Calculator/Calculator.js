@@ -20,7 +20,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator" data-testid="Calculator">
-      <input className="w-100 button-border border-0 bg-secondary text-light screen pe-1 ps-1" type="text" value={state.next} />
+      <input className="w-100 button-border border-0 bg-secondary text-light screen pe-1 ps-1" onChange={() => {}} type="text" value={state.next} />
       <div className="w-100">
         <button className="button-border col-3 border-1" type="button" onClick={() => handleClick('AC')}><small>AC</small></button>
         <button className="button-border col-3 border-1" type="button" onClick={() => handleClick('+/-')}>&#177;</button>
