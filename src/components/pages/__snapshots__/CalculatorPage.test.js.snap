@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CalculatorPage /> it should match snapshot 1`] = `
+<div
+  className="d-flex justify-content-between flex-wrap"
+>
+  <h1>
+    Let's do some math!
+  </h1>
+  Loading calculator...
+</div>
+`;
