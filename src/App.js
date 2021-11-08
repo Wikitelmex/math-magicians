@@ -18,7 +18,7 @@ function App() {
 
     <div className="m-3">
       <Router>
-        <div data-testid="NavMenu">
+        <div data-testid="App">
           <nav className="navbar navbar-expand-lg navbar-light bg-warning fixed-top">
             <div className="container-fluid">
               <Link className="navbar-brand h1" to="/">Math Magicians</Link>

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> it should match snapshot 1`] = `
+<div>
+  <h1>
+    Welcome to our page!
+  </h1>
+  <p>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo commodi alias delectus soluta cupiditate tenetur doloremque animi enim itaque neque, eaque sapiente? Mollitia, quos temporibus facere veritatis ratione provident libero?
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo commodi alias delectus soluta cupiditate tenetur doloremque animi enim itaque neque, eaque sapiente? Mollitia, quos temporibus facere veritatis ratione provident libero?
+  </p>
+</div>
+`;

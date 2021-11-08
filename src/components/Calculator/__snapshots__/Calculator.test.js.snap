@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Calculator /> it should match snapshot 1`] = `
+<div
+  className="calculator"
+  data-testid="Calculator"
+>
+  <input
+    className="w-100 button-border border-0 bg-secondary text-light screen pe-1 ps-1"
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <div
+    className="w-100"
+  >
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      <small>
+        AC
+      </small>
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      ±
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="button-border col-3 border-1 bg-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="button-border col-3 border-1 bg-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="button-border col-3 border-1 bg-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="button-border col-3 border-1 bg-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="button-border col-6 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="button-border col-3 border-1"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="button-border col-3 border-1 bg-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
